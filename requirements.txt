@@ -9,4 +9,7 @@ shap
 lime
 numpy
 openpyxl
+jupyter
+matplotlib 
+seaborn
 # unicodedata
