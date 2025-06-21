@@ -1,0 +1,12 @@
+telethon
+python-dotenv
+pandas
+transformers
+datasets
+torch
+seqeval
+shap
+lime
+numpy
+openpyxl
+# unicodedata
